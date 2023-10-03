@@ -30,10 +30,10 @@
 	}
 
 	.bright {
-		box-shadow: 0 0 200px 200px hsl(348, 81%, 46%);
+		box-shadow: 0 0 200px 200px #4685af;
 	}
 
 	.dark {
-		box-shadow: 0 0 700px 700px hsl(348, 81%, 46%);
+		box-shadow: 0 0 700px 700px #4685af;
 	}
 </style>

@@ -11,7 +11,7 @@
 	<a
 		href={'#' + id}
 		class={clsx(
-			'font-mono transition-all',
+			'font-mono transition-all hover:text-primary-500',
 			active ? 'text-white text-4xl pl-0' : 'text-gray-600 pl-4'
 		)}>{id.toUpperCase()}</a
 	>
