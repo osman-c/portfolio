@@ -21,7 +21,7 @@
 			<div class="flex flex-col gap-4">
 				<h1 class="text-4xl text-white font-mono">Osmancan Özkan</h1>
 				<h2 class="text-xl text-white font-mono">Software Engineer</h2>
-				<div class="font-mono text-center">I build websites that anyone can use.</div>
+				<div class="font-mono text-center">I build websites anyone can use.</div>
 				<div class="mt-8">
 					<ul class="hidden md:block">
 						<Navigator id="about" state={scrolled} />

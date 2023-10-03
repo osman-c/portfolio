@@ -38,7 +38,7 @@ export const experiences: Experience[] = [
 		tags: ['TypeScript', 'SCSS', 'React', 'Next.JS', 'Web3'],
 		title: 'Frontend Engineer',
 		secondary: ['Designer'],
-		content: 'Developed and designed an NFT marketplace and some other small projects'
+		content: 'Developed and designed an NFT marketplace and some other small projects.'
 	},
 	{
 		company: 'Neuralize',
@@ -57,7 +57,7 @@ export const experiences: Experience[] = [
 		title: 'Frontend Engineer',
 		secondary: ['Freelancer', 'Designer'],
 		content:
-			'Developed and designed an interactive and advanced tool that enables users to create all kinds of experiments and publish them'
+			'Developed and designed an interactive and advanced tool that enables users to create all kinds of experiments and publish them.'
 	},
 	{
 		company: 'Tekhnelogos',
@@ -117,6 +117,6 @@ export const personalExperiences: Experience[] = [
 			}
 		],
 		content:
-			"Currently developing an app that enables users to rank their preferred artist's top 10 songs and share them"
+			"Currently developing an app that enables users to rank their preferred artist's top 10 songs and share them."
 	}
 ];
